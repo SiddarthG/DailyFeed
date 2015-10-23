@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DailyFeed</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="categories">
+        <item name="0">All</item>
+        <item name="1">World</item>
+        <item name="2">Education</item>
+        <item name="3">Science</item>
+        <item name="4">Technology</item>
+        <item name="5">Food</item>
+        <item name="6">Sports</item>
+
+    </string-array>
+    <string name="title_activity_read">ReadActivity</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="link">Goto Link</string>
+    <string name="share">Share</string>
+</resources>
